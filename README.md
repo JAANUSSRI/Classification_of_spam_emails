@@ -1,4 +1,5 @@
-# Machine Learninhg
+# Machine Learning
+
 ## Classification_of_spam_emails using SVM
 Download the Email spam dataset from the link given below:
 
