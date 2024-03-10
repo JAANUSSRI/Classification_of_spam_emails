@@ -23,10 +23,10 @@ We infer the effectiveness of using Support Vector Machine (SVM) models with dif
 
 **Comparison of Results:**
 
-•	We compared the training and test accuracies as well as confusion matrices for different kernel functions.
-•	We observed that the linear kernel achieved the highest test accuracy in this scenario.
+* We compared the training and test accuracies as well as confusion matrices for different kernel functions.
+* We observed that the linear kernel achieved the highest test accuracy in this scenario.
 
 **Best Kernel:**
 
-•	We identified the best kernel based on test accuracy.
-•	In this case, the linear kernel performed the best.
+* We identified the best kernel based on test accuracy.
+* In this case, the linear kernel performed the best.
